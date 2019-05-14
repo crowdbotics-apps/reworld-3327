@@ -1,0 +1,3 @@
+rootProject.name = 'reworld_3327'
+
+include ':app'
